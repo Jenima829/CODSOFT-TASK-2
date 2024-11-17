@@ -34,18 +34,26 @@ When the application starts, it displays an empty task list. Users can type a ne
 
 
 
-<img width="443" alt="TD1" src="https://github.com/user-attachments/assets/9c104c16-4b8d-42ad-b8c8-120c63716363">
-
-
-
-<img width="443" alt="TD2" src="https://github.com/user-attachments/assets/242f929d-e021-40cb-ac62-a46ce3310546">
+<img width="220" alt="TD1" src="https://github.com/user-attachments/assets/9c104c16-4b8d-42ad-b8c8-120c63716363">
 
 
 
 
-<img width="319" alt="TD3" src="https://github.com/user-attachments/assets/b4bfe719-9ed5-4f52-9400-fd07df3607c6">
 
 
 
 
-<img width="455" alt="TD4" src="https://github.com/user-attachments/assets/be8ba162-97b3-4e7a-a2fa-25946ec14c37">
+
+
+
+<img width="220" alt="TD2" src="https://github.com/user-attachments/assets/242f929d-e021-40cb-ac62-a46ce3310546">
+
+
+
+
+<img width="290" alt="TD3" src="https://github.com/user-attachments/assets/b4bfe719-9ed5-4f52-9400-fd07df3607c6">
+
+
+
+
+<img width="300" alt="TD4" src="https://github.com/user-attachments/assets/be8ba162-97b3-4e7a-a2fa-25946ec14c37">
